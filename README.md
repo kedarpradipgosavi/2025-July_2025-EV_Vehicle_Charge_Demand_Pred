@@ -1,5 +1,5 @@
 # 2025-July_2025-EV_Vehicle_Charge_Demand_Prediction
-EV (Electric Vehicle) Charging Demand Prediction: This component focuses on forecasting electric vehicle charging demand based on historical data and external factors and location
+EV (Electric Vehicle) Charging Demand Prediction: This component focuses on forecasting electric vehicle charging demand based on historical data and external factors and location.
 
 EV Adoption Forecasting
 As electric vehicle (EV) adoption surges, urban planners need to anticipate infrastructure needs—especially charging stations. Inadequate planning can lead to bottlenecks, impacting user satisfaction and hindering sustainability goals.
